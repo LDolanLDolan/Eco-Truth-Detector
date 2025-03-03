@@ -29,6 +29,8 @@ python 3.8+
 pandas
 scikit-learn
 nltk
+matplotlib
+streamlit 
 ```
 
 ### Installation
