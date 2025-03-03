@@ -1,0 +1,10 @@
+{
+    "country_weights": {
+        "USA": 1.5,
+        "UK": 1.2,
+        "Germany": 1.0,
+        "France": 0.9,
+        "Canada": 0.8,
+        "Global": 0.7
+    }
+}
